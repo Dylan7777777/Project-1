@@ -18,6 +18,9 @@ We created a plot and whisker graph for the states (box_plot_states) It waas evi
 For the state of Massachusetts we created a scatter plot graph for location (longitude and latitude) and attached a color bar to show variation of house prices by color.
 For Massachusetts we also plotted the listings (relatively few 62) on a map of Massachusetts which for the most part displays to us that location matters.
 
-####
+### Bonus
 Finally, We sorted values by price for the whole dataset and have mapped that data (expensive_map_listings_by_price.png) 
 This last chart along with the Massachusetts map listing reiterates the phrase "location location location " and the data confirms the phrase. 
+
+### Visualiztions
+All the visualizations in the slides are also png files in our GitHub project page. We also have a proposal and written analysis file as a pdf that is attached.
